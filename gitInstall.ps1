@@ -1,8 +1,8 @@
 # install github
-winget install -e --id Git.Git -q
+winget install  Git.Git
 
 # Install github cli
-winget install -e --id Github.cli -q
+winget install Github.CLI
 
 # prompt user to setup github username/email
 Write-Host "Let's configure your Github username and email"
