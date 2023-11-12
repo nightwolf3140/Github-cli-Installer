@@ -2,9 +2,10 @@
 This is a simple install script designed for quickly deploying github-cli to several computers.
 
 # Requirements
-Windows 10/11
-[`winget`](https://learn.microsoft.com/en-us/windows/package-manager/) Windows package manager
-[`7-zip`](https://7-zip.org/). (Not required on Windows 11)
+- Windows 10/11
+- [`winget`](https://learn.microsoft.com/en-us/windows/package-manager/) Windows package manager
+- [`7-zip`](https://7-zip.org/). (Not required on Windows 11)
+
 
 # Installation
 Currently, the script is unsigned meaning it will not be allowed to run under the default Powershell execution policy.
