@@ -1,5 +1,6 @@
 # Github-cli-Installer
 This is a simple install script designed for quickly deploying github-cli to several computers.
+Obviously not very efficient for large-scale use.
 
 # Requirements
 - Windows 10/11
